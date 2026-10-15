@@ -150,4 +150,4 @@ This project is shared for **educational purposes**. Feel free to use it, modify
 
 ---
 
-*Built as a full CCNA 200-301 refresher project. If you spot an error or have a suggestion, open an issue — feedback is always welcome.*
+*Built as a full CCNA 200-301 refresher project. If you spot an error or have a suggestion, open an issue — feedback is always welcome..*
